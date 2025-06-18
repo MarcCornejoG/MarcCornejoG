@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MarcCornejoG
-- 👀 I’m interested in learning how to program.
-- 🌱 I’m currently learning java in my class.
-- 💞️ I’m looking to collaborate on projects, this way i can learn more.
-- 📫 How to reach me on my email : marckburgo@gmail.com
-- ⚡ Fun fact: Im getting in my second year of programming in my school and i hope i can pursue this as my career.
+- 👀 I’m interested in learning how to be a better developer.
+- 🌱 I’m currently in search of a job where i can start my carrer.
+- 💞️ I’m looking to collaborate and show the world my projects.
+- 📫 How to reach me on my email : marckburgo@gmail.com.
 
 <!---
 MarcCornejoG/MarcCornejoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
