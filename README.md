@@ -3,6 +3,8 @@
 - 🌱 I’m currently in search of a job where i can start my carrer.
 - 💞️ I’m looking to collaborate and show the world my projects.
 - 📫 How to reach me on my email : marckburgo@gmail.com.
+![marccornejo](https://github.com/user-attachments/assets/e54af615-b084-4e66-afd2-04a6b7f8dd40)
+
 
 <!---
 MarcCornejoG/MarcCornejoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
